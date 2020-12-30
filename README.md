@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+You found me! I'm just a backend software developer.
+
+📫 How to reach me: hit me up at gospelokpara(at)gmail.com
+
+😄 Pronouns: He/Him/His
+
+
 <!--
 **Ebugo/Ebugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
