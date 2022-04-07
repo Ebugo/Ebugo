@@ -38,9 +38,9 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 
 #### Volunteer Experience
 
-- [Community Lead, GDG Owerri](https://gdg.community.dev/gdg-owerri/)
-- 
-- [Influencer, Google Crowdsource](https://crowdsource.google.com/about/community/)
+- [Community Lead, GDG Owerri](https://gdg.community.dev/gdg-owerri/) (Current)
+
+- [Influencer, Google Crowdsource](https://crowdsource.google.com/about/community/) (Current)
 
 - [Learning Community Ambassador, Andela / Meta Developer Circle](https://web.facebook.com/groups/325261998362175/)
 
