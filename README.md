@@ -4,7 +4,7 @@
 
 <p align="center"><b>More than three years of experience as a Full Stack Software developer (Front-end heavy) spanning e-commerce, event technology, CRM, and more. Involved in product architecture and development, testing, advocacy, and problem solving.
  
-<br/><br/><br/>
+<br/><br/>
  
 Gospel works as a Software Engineer for Phree Media Technology LLC., where he works with a team of awesome Engineers to effect updates on existing platforms and new client projects. </b></p>
 
