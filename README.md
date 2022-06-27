@@ -11,6 +11,7 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/gospel-chinyereugo/
 - 🥳 Take a peep at my portfolio https://ebugo.me
+- 😇 I write too https://blog.ebugo.me
 
 
 #### Technologies and Tools
