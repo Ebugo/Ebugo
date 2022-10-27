@@ -36,7 +36,7 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 
 #### Currently working at:
 
-- [Software Engineer @ Phree Media Technology, LLC.](https://phreetech.com/)
+- [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
 - [Frontend Engineer @ Blockchainhub Africa Community](https://blockchainhub.africa/)
 
 
