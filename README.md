@@ -37,7 +37,7 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 #### Currently working at:
 
 - [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
-- [Senior Frontend Engineer @ Outpost Health (Contract)](https://www.outpost.health/)
+- [Senior Frontend Engineer @ Outpost Health](https://www.outpost.health/) (Contract)
 
 
 #### Volunteer Experience
