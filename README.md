@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Gospel</h1>
 
-<p align="center"><b>More than 3 years of experience as a Full Stack Software developer (Front-end heavy) spanning fin-tech, e-commerce, event technology, CRM, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
+<p align="center"><b>More than 4 years of experience as a Full Stack Software developer (Front-end heavy) spanning fin-tech, health-tech, e-commerce, event technology, CRM, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
  
 <br/><br/>
  
@@ -37,7 +37,7 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 #### Currently working at:
 
 - [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
-- [Frontend Engineer @ Blockchainhub Africa Community](https://blockchainhub.africa/)
+- [Senior Frontend Engineer @ Outpost Health (Contract)](https://www.outpost.health/)
 
 
 #### Volunteer Experience
@@ -48,6 +48,10 @@ Gospel works as a Software Engineer for Phree Media Technology LLC., where he wo
 
 - [Learning Community Ambassador, Andela / Meta Developer Circle](https://web.facebook.com/groups/325261998362175/)
 
+
+#### Projects
+
+- [Frontend Engineer @ Blockchainhub Africa Community](https://blockchainhub.africa/)
 
 
 <!-- ### Hi there 👋
