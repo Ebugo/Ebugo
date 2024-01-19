@@ -36,10 +36,15 @@ Gospel works as a Software Engineer for Stanbic IBTC, where he works with a team
 
 #### Currently working at:
 
-- [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
+- [Senior Software Engineer @ ALAT By Wema](https://alat.ng/)
 - [Senior Frontend Engineer @ Outpost Health](https://www.outpost.health/) (Contract)
 
 
+#### Previously at:
+
+- [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
+
+  
 #### Volunteer Experience
 
 - [Community Lead, GDG Owerri](https://gdg.community.dev/gdg-owerri/) (Current)
