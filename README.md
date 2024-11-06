@@ -6,7 +6,7 @@
  
 <br/><br/>
  
-Gospel works as a Software Engineer for Stanbic IBTC, where he works with a team of awesome Engineers to effect updates on existing and new projects. </b></p>
+Gospel works as a Software Engineer for ALAT by Wema, where he leads a team of awesome Engineers to effect updates on existing and new web projects. </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/gospel-chinyereugo/
