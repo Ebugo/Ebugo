@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Gospel</h1>
 
-<p align="center"><b>More than 4 years of experience as a Full Stack Software developer (Front-end heavy) spanning fin-tech, health-tech, e-commerce, event technology, CRM, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
+<p align="center"><b>Over half a decade of experience as a Full Stack Software developer (Front-end heavy) spanning banking/fin-tech, health-tech, e-commerce, event technology, CRM, SAAS, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
  
 <br/><br/>
  
