@@ -10,8 +10,8 @@ Gospel works as a Software Engineer for ALAT by Wema, where he leads a team of a
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/gospel-chinyereugo/
-- 🥳 Take a peep at my portfolio https://ebugo.me
-- 😇 I write too https://blog.ebugo.me
+- 🥳 Take a peep at my portfolio https://ebugo.me, https://ebugo.vercel.app/
+- 😇 I write too https://blog.ebugo.me, https://gospelchinyereugo.hashnode.dev/
 
 
 #### Technologies and Tools
