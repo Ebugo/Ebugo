@@ -29,12 +29,13 @@ Gospel works as a Software Engineer for ALAT by Wema, where he leads a team of a
 
 #### Currently working at:
 
-- [Senior Software Engineer @ ALAT By Wema](https://alat.ng/)
-- [Senior Frontend Engineer @ Outpost Health](https://www.outpost.health/) (Contract)
+- [Web Engineering Team Lead @ ALAT By Wema](https://alat.ng/)
+- [Senior Frontend Engineer @ Clearprice](https://www.clearprice.xyz/) (Contract)
 
 
 #### Previously at:
 
+- [Senior Frontend Engineer @ Outpost Health](https://www.outpost.health/) (Contract)
 - [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
 - [Senior Software Engineer @ Phreemedia Technology](https://www.phreetech.com/)
 
