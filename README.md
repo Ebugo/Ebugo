@@ -6,7 +6,7 @@
  
 <br/><br/>
  
-Gospel works as a Software Engineer for ALAT by Wema, where he leads a team of awesome Engineers to effect updates on existing and new web projects. </b></p>
+Gospel works as a Software Engineer for ALAT by Wema Bank, where he leads a team of awesome Engineers to effect updates on existing and new web projects. </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/gospel-chinyereugo/
@@ -29,7 +29,7 @@ Gospel works as a Software Engineer for ALAT by Wema, where he leads a team of a
 
 #### Currently working at:
 
-- [Web Engineering Team Lead @ ALAT By Wema](https://alat.ng/)
+- [Web Engineering Team Lead @ ALAT By Wema Bank](https://alat.ng/)
 - [Senior Frontend Engineer @ Clearprice](https://www.clearprice.xyz/) (Contract)
 
 
