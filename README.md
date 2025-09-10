@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Gospel</h1>
 
-<p align="center"><b>Experienced Full Stack Software Engineer with over half a decade of expertise in the banking and finance/fintech, health-tech, e-commerce, event tech, edutech, agrotech, and CRM industries. I bring a wealth of experience in development, advocacy, problem-solving and architecture design.
+<p align="center"><b>An experienced Full Stack Software Engineer with over half a decade of expertise in the banking and finance/fintech, health-tech, e-commerce, event tech, edutech, agrotech, and CRM industries. I bring a wealth of experience in development, advocacy, problem-solving and architecture design.
  
 <br/><br/>
  
@@ -35,7 +35,7 @@ Gospel works as a Software Engineer for ALAT by Wema Bank, where he leads a team
 
 #### Previously at:
 
-- [Senior Frontend Engineer @ Outpost Health](https://www.outpost.health/) (Contract)
+- [Senior Frontend Engineer / Tech Lead @ Outpost Health](https://www.outpost.health/) (Contract)
 - [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
 - [Senior Software Engineer @ Phreemedia Technology](https://www.phreetech.com/)
 
