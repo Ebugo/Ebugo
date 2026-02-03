@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Gospel</h1>
 
-<p align="center"><b>An experienced Full Stack Software Engineer with over half a decade of expertise in the banking and finance/fintech, health-tech, e-commerce, event tech, edutech, agrotech, and CRM industries. I bring a wealth of experience in development, advocacy, problem-solving and architecture design.
+<p align="center"><b>High-impact Web Engineering Team Lead with over 7 years of experience architecting user-centric applications for Fintech, Banking, Health-tech, E-commerce, Event tech, Edutech, Agrotech, and CRM sectors. Expert in React/Next.js, and TypeScript, with a proven track record of optimizing application performance by up to 10x. Passionate advocate for Web Accessibility (A11y) and technical community leader who grew a local developer community from scratch to 2,900+ members.
  
 <br/><br/>
  
