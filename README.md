@@ -35,7 +35,7 @@ Gospel works as a Software Engineer for ALAT by Wema Bank, where he leads a team
 
 #### Previously at:
 
-- [Senior Frontend Engineer / Tech Lead @ Outpost Health](https://outpost.health/) (Contract)
+- [Senior Software Engineer / Tech Lead @ Outpost Health](https://outpost.health/) (Contract)
 - [Software Engineer @ Stanbic IBTC](https://www.stanbicibtcbank.com/)
 - [Senior Software Engineer @ Phreemedia Technology](https://www.phreetech.com/)
 
